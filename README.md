@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=y3ff18&theme=gruvbox_duo&hide_border=%E7%9C%9F%E7%9A%84&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
