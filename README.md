@@ -1,6 +1,9 @@
 ### 
 ![](https://img.shields.io/badge/github-y3ff18-lightgrey)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=y3ff18&theme=gruvbox_duo&hide_border=%E7%9C%9F%E7%9A%84&date_format=M%20j%5B%2C%20Y%5D" width="30"/>  
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=y3ff18" />
+</div>
 
 <!--
 **y3ff18/y3ff18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
