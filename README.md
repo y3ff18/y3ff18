@@ -1,10 +1,9 @@
 ### 
-<div align="center">
+
 ![](https://img.shields.io/badge/github-y3ff18-green)
 ![](https://img.shields.io/badge/python-y3ff18-green)
 ![](https://img.shields.io/badge/security-y3ff18-green)
-</div>
-
+![](https://img.shields.io/badge/developer-y3ff18-green)
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=y3ff18" />
 </div>
