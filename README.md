@@ -12,7 +12,7 @@
 
  
  <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9DF79C&background=9AFFB700&lines=This+is+code+worker" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9DF79C&background=9AFFB700&lines=This+is+code+developer !" alt="typing-svg">
 </p>
 
 
