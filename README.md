@@ -1,9 +1,14 @@
 ### 
-![](https://img.shields.io/badge/hacker-y3ff18-green)
-![](https://img.shields.io/badge/github-y3ff18-green)
-![](https://img.shields.io/badge/python-y3ff18-green)
-![](https://img.shields.io/badge/security-y3ff18-green)
-![](https://img.shields.io/badge/developer-y3ff18-green)
+
+
+ <p align="center">
+   <img src="https://img.shields.io/badge/hacker-y3ff18-green" alt="typing-svg">
+   <img src="https://img.shields.io/badge/github-y3ff18-green" alt="typing-svg">
+   <img src="https://img.shields.io/badge/python-y3ff18-green" alt="typing-svg">
+ <img src="https://img.shields.io/badge/developer-y3ff18-green" alt="typing-svg">
+ <img src="https://img.shields.io/badge/security-y3ff18-green" alt="typing-svg">
+</p>
+
 
  
  <p align="center">
