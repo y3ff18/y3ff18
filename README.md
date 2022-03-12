@@ -1,6 +1,6 @@
 ### 
 ![](https://img.shields.io/badge/github-y3ff18-lightgrey)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=y3ff18&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
 **y3ff18/y3ff18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y3ff18)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=y3ff18&theme=gruvbox_duo&hide_border=%E7%9C%9F%E7%9A%84&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=y3ff18&theme=gruvbox_duo&hide_border=%E7%9C%9F%E7%9A%84&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
