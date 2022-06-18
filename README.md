@@ -2,7 +2,7 @@
 
 
  <p align="center">
-   <img src="https://img.shields.io/badge/hacker-y3ff18-green" alt="typing-svg">
+   <img src="https://img.shields.io/badge/loster-y3ff18-green" alt="typing-svg">
    <img src="https://img.shields.io/badge/github-y3ff18-green" alt="typing-svg">
    <img src="https://img.shields.io/badge/python-y3ff18-green" alt="typing-svg">
  <img src="https://img.shields.io/badge/developer-y3ff18-green" alt="typing-svg">
